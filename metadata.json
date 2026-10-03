@@ -1,0 +1,6 @@
+{
+  "name": "KiranaOS - Smart Kirana Store POS & Inventory Management",
+  "description": "Professional Indian Kirana store POS billing system, barcode & QR scanner, inventory management, Udhaar ledger, supplier tracking, and multi-lingual reporting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
